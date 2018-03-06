@@ -47,6 +47,7 @@ Currently the following operations are (partially) implemented:
   DATA_DIR=/tmp npm start
   ```
   *Change DATA_DIR variable to the root folder you want angular-filemanager to operate on*
+  
 4. Configure angular-filemanager in your angular app:
 
   ```
